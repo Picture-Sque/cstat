@@ -1,0 +1,3 @@
+Hello World! This is a sample text.
+It has UPPER and lower CASE letters, numbers 123, and symbols like #, @, &.
+Isn't it simple? Yes.
